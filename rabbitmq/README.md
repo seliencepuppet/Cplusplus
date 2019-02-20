@@ -14,3 +14,15 @@ https://www.boost.org/users/history
 ......
 ```
 
+运行大概5分钟到10分钟的样子会结束
+
+### 安装 rabbitmq-c
+
+https://github.com/alanxz/rabbitmq-c
+
+下载相关文件
+
+```shell
+[root@zhangyz ~]# git clone https://github.com/alanxz/rabbitmq-c
+
+```
