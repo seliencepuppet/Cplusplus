@@ -33,3 +33,16 @@ cmake version 2.8.12.2
 [root@zhangyz build]# make 
 [root@zhangyz build]# make install 
 ```
+
+如果编译报错可能要重新安装cmake
+
+https://cmake.org/download
+
+```shell
+[root@zhangyz ~]# tar -xf cmake-3.14.0-rc2.tar.gz -C /usr/local/src
+[root@zhangyz ~]# cd /usr/local/src
+[root@zhangyz src]# ls
+boost_1_47_0  cmake-3.14.0-rc2  rabbitmq-c
+[root@zhangyz src]# cd cmake-3.14.0-rc2/
+[root@zhangyz cmake-3.14.0-rc2]# 
+```
