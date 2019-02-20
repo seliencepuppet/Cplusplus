@@ -24,5 +24,8 @@ https://github.com/alanxz/rabbitmq-c
 
 ```shell
 [root@zhangyz ~]# git clone https://github.com/alanxz/rabbitmq-c
-
+remote: Enumerating objects: 6199, done.
+remote: Total 6199 (delta 0), reused 0 (delta 0), pack-reused 6199
+Receiving objects: 100% (6199/6199), 2.62 MiB | 274 KiB/s, done.
+Resolving deltas: 100% (4306/4306), done.
 ```
