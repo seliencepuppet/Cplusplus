@@ -44,5 +44,5 @@ https://cmake.org/download
 [root@zhangyz src]# ls
 boost_1_47_0  cmake-3.14.0-rc2  rabbitmq-c
 [root@zhangyz src]# cd cmake-3.14.0-rc2/
-[root@zhangyz cmake-3.14.0-rc2]# 
+[root@zhangyz cmake-3.14.0-rc2]# ./bootstrap --prefix=/usr/local/cmake-3.14
 ```
