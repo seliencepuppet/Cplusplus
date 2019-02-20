@@ -72,6 +72,7 @@ cmake version 2.8.12.2
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /usr/local/src/rabbitmq-c/build
-[root@zhangyz build]# 
-
+[root@zhangyz build]# cmake --build .
+[root@zhangyz build]# make 
+[root@zhangyz build]# make install 
 ```
